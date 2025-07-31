@@ -83,7 +83,7 @@ SnapMart/
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/SnapMart.git
+git clone https://github.com/mohammedali64/SnapMart.git
 cd SnapMart
 ```
 
@@ -116,6 +116,17 @@ npm run dev
 ---
 
 ## 🌟 Screenshots
+<img width="1339" height="627" alt="image" src="https://github.com/user-attachments/assets/ae308432-b9f1-43a6-917e-aa6c7a27e42e" />
+<img width="1334" height="623" alt="image" src="https://github.com/user-attachments/assets/bd1329cf-adac-47b3-8fc0-0eadc279b87b" />
+<img width="1346" height="629" alt="image" src="https://github.com/user-attachments/assets/8cfbc633-892d-4837-9104-011fb1f311dd" />
+<img width="1343" height="627" alt="image" src="https://github.com/user-attachments/assets/fb821a16-930b-4391-b819-3e2dd66742e0" />
+<img width="1330" height="631" alt="image" src="https://github.com/user-attachments/assets/52f5c37d-0c5c-42c8-a9c0-43ce2a0daab5" />
+<img width="1335" height="624" alt="image" src="https://github.com/user-attachments/assets/0dd98297-d9ca-4ba0-9028-8aade4d4bfb5" />
+<img width="1288" height="562" alt="image" src="https://github.com/user-attachments/assets/baf2cb34-91d1-44a9-9192-d3abe82d2b88" />
+<img width="816" height="443" alt="image" src="https://github.com/user-attachments/assets/e25a45b5-d857-4095-b77c-dae1a467d5ef" />
+<img width="1284" height="540" alt="image" src="https://github.com/user-attachments/assets/804c499a-b196-4a04-bb6c-d07e5763f85a" />
+<img width="1341" height="625" alt="image" src="https://github.com/user-attachments/assets/a075bbcc-5960-46ae-958d-bb6cc18cde18" />
+
 
 ### User Side
 - Product Listing  
