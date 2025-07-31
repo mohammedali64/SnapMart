@@ -137,8 +137,14 @@ npm run dev
 - Manage Orders  
 - Update Order Status in Real-Time  
 
-(Add screenshots here after hosting)
+<img width="1325" height="617" alt="image" src="https://github.com/user-attachments/assets/90570cfb-8a6d-4016-838c-3238b0f1a9d1" />
+<img width="915" height="559" alt="image" src="https://github.com/user-attachments/assets/7acb09c2-8d1a-40db-bd89-ea7b09394c63" />
+<img width="1309" height="598" alt="image" src="https://github.com/user-attachments/assets/671aeeff-cff2-45cb-bd06-0c45f6ae19d1" />
+<img width="1297" height="599" alt="image" src="https://github.com/user-attachments/assets/7405c4d8-0f41-47fd-93c2-99b5adb48746" />
+<img width="1257" height="618" alt="image" src="https://github.com/user-attachments/assets/fe915f77-06f7-4f88-a3c8-1821f5b9d311" />
 
+#Note:This is a fast paced ui not a proper design. You can add ui on your own
+#Note:There is also a way to manage categories in the code but I haven't put a button for that.
 ---
 
 ## 🚀 Deployment
