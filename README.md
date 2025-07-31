@@ -168,9 +168,8 @@ npm run build
 
 ## 📈 Future Improvements
 
-- Add product categories & search
 - Implement payment gateway (Razorpay / Stripe)
-- Improve UI/UX with animations & transitions
+- Improve UI/UX with animations & transitions for Admin Part
 - Add admin analytics dashboard
 
 ---
