@@ -7,6 +7,7 @@ import PublicRoute from './RouteAuth/PublicRoute'
 import PrivateRoute from './RouteAuth/PrivateRoute'
 import Category from './components/Category'
 import ManageOrders from './components/ManageOrders'
+import Profile from './components/Profile'
 
 function App() {
 
@@ -18,6 +19,7 @@ function App() {
         <Route path="/about" element={<PrivateRoute><About/></PrivateRoute>} />
         <Route path="/category" element={<PrivateRoute><Category/></PrivateRoute>}/>
         <Route path='/manageOrders' element={<PrivateRoute><ManageOrders/></PrivateRoute>}/>
+        <Route path='/profile' element={<PrivateRoute><Profile/></PrivateRoute>}/>
       </Routes>
     </>
   )

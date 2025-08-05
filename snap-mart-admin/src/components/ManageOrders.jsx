@@ -2,9 +2,11 @@ import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { subscribeToAllOrders } from "../Services/orderApiServices";
 import { adminUpdateOrderStatus, setOrders } from "../Store/Slices/manageOrderSlice";
+import { useNavigate } from "react-router-dom";
 
 const ManageOrders = () => {
   const dispatch = useDispatch();
+  const navigate = useNavigate();
   const { orders, loading, error } = useSelector((state) => state.orders);
 
   useEffect(() => {
@@ -37,6 +39,7 @@ const ManageOrders = () => {
   return (
     <div className="mt-16 max-w-7xl mx-auto px-4">
       <h1 className="text-3xl font-bold mb-6">Manage Orders</h1>
+      <button onClick={()=>navigate("/")} className="text-red-500 cursor-pointer">Home</button>
 
       {Object.keys(groupedOrders).map((userId) => (
         <div

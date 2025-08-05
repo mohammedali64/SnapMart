@@ -13,6 +13,7 @@ import Checkout from './Components/Checkout'
 import PrivateRoute from './Components/PrivateRoute'
 import PublicRoute from './Components/PublicRoute'
 import Orders from './Components/Orders'
+import Profile from './Components/Profile'
 
 function App() {
 
@@ -29,7 +30,8 @@ function App() {
         <Route path='categories/:categoryName' element={<Categories/>}/>
         <Route path='products/:productId' element={<ProductCard/>}/>
         <Route path='checkout' element={<PrivateRoute><Checkout/></PrivateRoute>}/>
-        <Route path='/orders' element={<Orders/>}/>
+        <Route path='/orders' element={<PrivateRoute><Orders/></PrivateRoute>}/>
+        <Route path='/profile' element={<PrivateRoute><Profile/></PrivateRoute>}/>
       </Route>
     </Routes>
     </>
